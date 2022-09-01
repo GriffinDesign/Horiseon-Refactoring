@@ -8,19 +8,20 @@ The semantic HTML tags were put in place to help make the code more readable for
 
 The refactoring of the code with semantic HTML and accessibility attributes allowed the code to be more readily accessible and allow improvement in SEO for the webpage. 
 
-Throughout this project, I learned the importance of semantic HTML in code. Other developers need to be able to read code without having to go back and forth between the browser to find out which lines control which elements. Accessibility is a neccesity in web development as it allows all people to access the same website without problems regarding visual impairments. 
+Throughout this project, I learned the importance of semantic HTML in code. Other developers need to be able to read code without having to go back and forth between the browser to find out which lines control which elements. Accessibility is a neccesity in web development as it allows all people to access the same website without problems regarding visual impairments.
 
+<img src="./assets/images/final-webpage-top.png" alt="Screenshot of top of webpage">
 
+<img src="./assets/images/final-webpage-bottom.png" alt="Screenshot of top of webpage">
 
 ## Installation
 
 Go to the provided URL to access the webpage on your browser:
 
-<<<<<<< HEAD
-URL: https://github.com/GriffinDesign/Horiseon-Refactoring
-=======
-URL: https://griffindesign.github.io/Horiseon-Refactoring/
->>>>>>> 5b80f827b31b01c8d93a713117282222b6c2342d
+GitHub URL: https://github.com/GriffinDesign/Horiseon-Refactoring
+
+Webpage URL: https://griffindesign.github.io/Horiseon-Refactoring/
+
 
 
 ## License
