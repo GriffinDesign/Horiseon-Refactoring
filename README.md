@@ -18,10 +18,14 @@ Throughout this project, I learned the importance of semantic HTML in code. Othe
 
 Go to the provided URL to access the webpage on your browser:
 
+<<<<<<< HEAD
 GitHub URL: https://github.com/GriffinDesign/Horiseon-Refactoring
 
 Webpage URL: https://griffindesign.github.io/Horiseon-Refactoring/
 
+=======
+URL: https://griffindesign.github.io/Horiseon-Refactoring/
+>>>>>>> 0b127414c9137e7935788692201d2b4e77e408bd
 
 
 ## License
